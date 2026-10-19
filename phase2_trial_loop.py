@@ -56,7 +56,7 @@ TECHNIQUE = "fake_evidence"
 # EXPERIMENT SETTINGS
 # ============================================================
 
-N_QUESTIONS = 50
+N_QUESTIONS = 50 #We used 50 for the first trial run and 208 for generating the second run
 N_REPLICATIONS = 3
 
 # Maximum balanced sample size with the current intersection:
